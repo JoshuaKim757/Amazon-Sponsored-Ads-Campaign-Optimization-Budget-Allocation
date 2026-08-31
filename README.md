@@ -252,12 +252,6 @@ Actual = $1,087
 
 > **제품 Visibility 확대에는 일정 성과가 있었지만, 확보된 Traffic을 구매로 전환하는 단계에서는 개선이 필요했습니다.**
 
-### 시각화
-
-```markdown
-![Final KPI](assets/01_final_kpi.png)
-```
-
 ---
 
 ## 8. 캠페인 중 예산을 어떻게 바꿨는가
@@ -318,11 +312,6 @@ PDP       5
 
 다만 PDP에서도 주문이 발생하기 시작했기 때문에 완전히 중단하지 않고 일정 예산을 유지했습니다.
 
-### 시각화
-
-```markdown
-![Budget Reallocation](assets/02_budget_reallocation.png)
-```
 
 > 각 숫자는 캠페인 운영 과정의 성과 확인 시점에 보고된 값이며, 서로 단순 합산하지 않았습니다.
 
@@ -414,12 +403,6 @@ Yeti screw top
 
 는 관측 결과까지만 보고하고, Match Type 자체의 효과는 별도 실험이 필요한 가설로 남겼습니다.
 
-### 시각화
-
-```markdown
-![Keyword Performance](assets/03_keyword_performance.png)
-```
-
 ---
 
 ## 11. PDP 성과
@@ -462,12 +445,6 @@ Premium 가격대 경쟁 제품
 ```
 
 을 별도로 구성해 검증할 가설로 남겼습니다.
-
-### 시각화
-
-```markdown
-![PDP Performance](assets/04_pdp_performance.png)
-```
 
 ---
 
